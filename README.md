@@ -2,7 +2,7 @@
 
 Create a Solana meme coin from start to finish with ease. Create token, get MarketID, create liquidity pool, burn LP, + bots to drive volume.  
 
-* For full access to program, please contact **@SolanaMemeDev** on Telegram
+* For full access to program, please contact **@ScuffedData** on Telegram
 
 BEWARE OF SCAMMERS WHO HAVE TRIED TO LAUNCH THIS PROJECT AS THEIR OWN ON HERE! ASK THEM TO CHANGE THINGS IN THE PROGRAM AND SEND YOU A VIDEO OF THOSE CHANGES! THEY CAN'T DO THAT! I CAN! PLEASE BE CAREFUL!
 
