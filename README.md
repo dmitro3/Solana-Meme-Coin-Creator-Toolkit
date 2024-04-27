@@ -5,7 +5,7 @@ Create a Solana meme coin from start to finish with ease. Create token, get Mark
 * For full access to program, please contact **@ScuffedData** on Telegram
 
 BEWARE OF SCAMMERS WHO HAVE TRIED TO LAUNCH THIS PROJECT AS THEIR OWN ON HERE! ASK THEM TO CHANGE THINGS IN THE PROGRAM AND SEND YOU A VIDEO OF THOSE CHANGES! THEY CAN'T DO THAT! I CAN! PLEASE BE CAREFUL!
-
+* **UPDATE 4/26/24**  200 sales!! Still going strong!  Still sending up pushing updates!  
 * **UPDATE 3/24/24**  Over 100 new tokens have now launched through this tool in only 5 days!  The demand for this project has gone through the roof as word has gotten around! Grab it now!
 * **UPDATE 3/28/24**  Now with the option to snipe your own pool!  During LP creation options, you will be prompted if you'd like to snipe your own pool!  This is achieved with Jito Bundles and this tool makes it rediculously simple!
 * 
