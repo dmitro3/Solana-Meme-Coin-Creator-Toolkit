@@ -2,7 +2,10 @@
 
 Create a Solana meme coin from start to finish with ease. Create token, get MarketID, create liquidity pool, burn LP, + bots to drive volume.  
 
-* For full access to program, please contact **@ScuffedData** on Telegram
+* LAUNCH YOUR FIRST COIN FREE MAY 1ST - MAY 3RD.
+* ON THE FENCE? NOW YOU CAN TRY THE TOOLKIT AND ALL ITS FEATURES FOR 1 LAUNCH! MESSAGE FOR ACCESS!
+  
+* Contact **@ScuffedData** on Telegram
 
 BEWARE OF SCAMMERS WHO HAVE TRIED TO LAUNCH THIS PROJECT AS THEIR OWN ON HERE! ASK THEM TO CHANGE THINGS IN THE PROGRAM AND SEND YOU A VIDEO OF THOSE CHANGES! THEY CAN'T DO THAT! I CAN! PLEASE BE CAREFUL!
 * **UPDATE 4/26/24**  200 sales!! Still going strong!  Still sending up pushing updates!  
