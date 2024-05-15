@@ -21,6 +21,9 @@ pip install -r requirements.txt
 ```python
 python toolkit.py
 ```
+If you run into problems, it's because you don't have python or pip.  Google it!
+## Features
+
 ```python
 
 
