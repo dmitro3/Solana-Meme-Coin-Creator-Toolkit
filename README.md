@@ -2,12 +2,9 @@
 
 Create a Solana meme coin from start to finish with ease. Create token, get MarketID, create liquidity pool, burn LP, + bots to drive volume.  
 
-* LAUNCH YOUR FIRST COIN FREE MAY 1ST - MAY 3RD.
-* ON THE FENCE? NOW YOU CAN TRY THE TOOLKIT AND ALL ITS FEATURES FOR 1 LAUNCH! MESSAGE FOR ACCESS!
-  
-* Contact **@ScuffedData** on Telegram
+* This is now freeware as of May 15th - Enjoy and happy meme coin making!
 
-BEWARE OF SCAMMERS WHO HAVE TRIED TO LAUNCH THIS PROJECT AS THEIR OWN ON HERE! ASK THEM TO CHANGE THINGS IN THE PROGRAM AND SEND YOU A VIDEO OF THOSE CHANGES! THEY CAN'T DO THAT! I CAN! PLEASE BE CAREFUL!
+BEWARE OF SCAMMERS WHO HAVE TRIED TO LAUNCH THIS PROJECT! THIS IS THE ONLY LEGIT SOURCE OF THIS PROGRAM!!  PLEASE BE CAREFUL!
 * **UPDATE 4/26/24**  200 sales!! Still going strong!  Still sending up pushing updates!  
 * **UPDATE 3/24/24**  Over 100 new tokens have now launched through this tool in only 5 days!  The demand for this project has gone through the roof as word has gotten around! Grab it now!
 * **UPDATE 3/28/24**  Now with the option to snipe your own pool!  During LP creation options, you will be prompted if you'd like to snipe your own pool!  This is achieved with Jito Bundles and this tool makes it rediculously simple!
@@ -15,7 +12,18 @@ BEWARE OF SCAMMERS WHO HAVE TRIED TO LAUNCH THIS PROJECT AS THEIR OWN ON HERE! A
 Video of tool in action.  https://www.youtube.com/watch?feature=shared&v=aLEeoRuOioI
 * In the video, it shows the cost to create a marketID and make the liquidity pool is 1.3 SOL.  This has been updated and the cost is now ~0.5 SOL using updated inputs.
 
+## How to install
+Clone or download repo and open a terminal.  Make sure you have python and pip installed!
+Then run the following commands: 
 ```python
+pip install -r requirements.txt
+```
+```python
+python toolkit.py
+```
+```python
+
+
 # .... SOLANA MEME COIN TOOLKIT -- V1.0 .....
 # Created by ETHtricks 2024
 
